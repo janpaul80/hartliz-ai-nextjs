@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/janpaul80/hartliz-ai-nextjs/main/hartliz-ai-banner.jpg" alt="HartLiz AI Banner" width="100%" />
+
 # 🤖 HartLiz AI – Site & App Builder Powered by AI
 
 A sleek platform to create websites, apps, and software tools using natural language prompts — powered by React/Next.js and OpenAI.
